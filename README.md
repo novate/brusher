@@ -6,15 +6,20 @@ Notebooks of Leetcode Brushers! Code brushed in Python3.8 now!
 
 ## Contents
 
-Code are currently in Python3 only.
+Code currently in Python3 only.
 
-- [Search](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/search.ipynb)
-- [Dynamic Programming](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/dynamic_programming.ipynb)
+- [Array](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/array.ipynb)
+- [Binary Search](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/binary-search.ipynb)
+- [Divide and Conquer](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/divide-and-conquer)
+- [Dynamic Programming](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/dynamic-programming.ipynb)
+- [Geometry](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/geometry.ipynb)
 - [Graph](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/graph.ipynb)
-- [Binary Search](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/binary_search.ipynb)
-- [Hash](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/hash.ipynb)
+- [Hashtable](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/hashtable.ipynb)
 - [List](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/list.ipynb)
 - [Math](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/math.ipynb)
+- [Search](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/search.ipynb)
+- [Simulation](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/simulation.ipynb)
+- [Tree](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/tree.ipynb)
 - [MISC](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/misc.ipynb)
 
 ## Strategies
