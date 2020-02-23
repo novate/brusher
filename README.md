@@ -20,6 +20,8 @@ Code currently in Python3 only.
 - [Search](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/search.ipynb)
 - [Simulation](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/simulation.ipynb)
 - [Tree](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/tree.ipynb)
+  - General Trees
+  - Binary Search Trees
 - [MISC](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/misc.ipynb)
 
 ## Strategies
