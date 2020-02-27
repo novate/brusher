@@ -1,11 +1,32 @@
+from collections import deque
+
+
 class TreeNode:
     def __init__(self, x):
         self.val = x
         self.left = None
         self.right = None
 
-def string_to_tree_node(input):
-    '''Turn a String to tree.'''
+    def __str__(self) -> str:
+        '''Convert a tree to a string of the BFS sequence.'''
+        queue = deque([self])
+        vals = []
+        while queue:
+            ptr = queue.popleft()
+            if ptr:
+                vals.append(str(ptr.val))
+                queue.append(ptr.left)
+                queue.append(ptr.right)
+            else:
+                vals.append("null")
+        for i in range(len(vals)-1, -1, -1):
+            if vals[i] != "null":
+                return '[' + ','.join(vals[:i+1]) + ']'
+        return "[]"
+
+
+def string_to_tree_node(input: str) -> TreeNode:
+    '''Convert a BFS represented tree string to a tree.'''
     input = input.strip()
     input = input[1:-1]
     if not input:
