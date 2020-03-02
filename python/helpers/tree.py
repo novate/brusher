@@ -1,6 +1,13 @@
 from collections import deque
 
 
+class Node:
+    '''An n-ary node.'''
+    def __init__(self, val=None, children=None):
+        self.val = val
+        self.children = children
+
+
 class TreeNode:
     def __init__(self, x):
         self.val = x
