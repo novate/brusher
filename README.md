@@ -19,6 +19,7 @@ Code currently in Python3 only.
 - [Math](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/math.ipynb)
 - [Search](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/search.ipynb)
 - [Simulation](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/simulation.ipynb)
+- [Stack](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/stack.ipynb)
 - [Tree](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/tree.ipynb)
   - General Trees
   - Binary Search Trees
