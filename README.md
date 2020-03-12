@@ -12,18 +12,23 @@ Code currently in Python3 only.
 - [Binary Search](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/binary-search.ipynb)
 - [Divide and Conquer](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/divide-and-conquer)
 - [Dynamic Programming](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/dynamic-programming.ipynb)
-- [Geometry](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/geometry.ipynb)
 - [Graph](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/graph.ipynb)
 - [Hashtable](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/hashtable.ipynb)
 - [List](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/list.ipynb)
 - [Math](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/math.ipynb)
+  - Arithmetic Math
+  - Geometric Math
 - [Search](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/search.ipynb)
 - [Simulation](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/simulation.ipynb)
-- [Stack](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/stack.ipynb)
 - [Tree](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/tree.ipynb)
   - General Trees
   - Binary Search Trees
 - [MISC](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/misc.ipynb)
+  - Stack
+  - Heap
+  - Trie
+  - Greedy
+  - Recursion
 
 ## Strategies
 
