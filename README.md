@@ -19,7 +19,6 @@ Code currently in Python3 only.
   - Arithmetic Math
   - Geometric Math
 - [Search](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/search.ipynb)
-- [Simulation](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/simulation.ipynb)
 - [Tree](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/tree.ipynb)
   - General Trees
   - Binary Search Trees
