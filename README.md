@@ -12,6 +12,9 @@ Code currently in Python3 only.
 - [Binary Search](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/binary-search.ipynb)
 - [Divide and Conquer](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/divide-and-conquer)
 - [Dynamic Programming](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/dynamic-programming.ipynb)
+  - DP
+  - Divide and Conquer
+  - Greedy
 - [Graph](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/graph.ipynb)
 - [Hashtable](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/hashtable.ipynb)
 - [List](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/list.ipynb)
@@ -26,7 +29,6 @@ Code currently in Python3 only.
   - Stack
   - Heap
   - Trie
-  - Greedy
   - Recursion
 
 ## Strategies
