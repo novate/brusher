@@ -10,7 +10,6 @@ Code currently in Python3 only.
 
 - [Array](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/array.ipynb)
 - [Binary Search](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/binary-search.ipynb)
-- [Divide and Conquer](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/divide-and-conquer)
 - [Dynamic Programming](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/dynamic-programming.ipynb)
   - DP
   - Divide and Conquer
