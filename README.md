@@ -15,6 +15,7 @@ Code currently in Python3 only.
   - Divide and Conquer
   - Greedy
 - [Graph](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/graph.ipynb)
+  - Union Find (UFS)
 - [Hashtable](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/hashtable.ipynb)
 - [List](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/list.ipynb)
 - [Math](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/math.ipynb)
