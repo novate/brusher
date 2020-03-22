@@ -30,6 +30,7 @@ Code currently in Python3 only.
   - Heap
   - Trie
   - Recursion
+  - Design
 
 ## Strategies
 
