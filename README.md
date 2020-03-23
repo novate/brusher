@@ -35,7 +35,7 @@ Code currently in Python3 only.
 ## Strategies
 
 - Brush the problems of the same kind together.
-- Brush different kind of problems every day. One day one category.
+- Brush different kind of problems every day. One day, one category.
 - Brush each problem at least 3 times:
   - 1st time: check the answer if no ideas in 5 minutes.
   - 2nd time: check the answer if cannot solve independently in 30 minutes.
