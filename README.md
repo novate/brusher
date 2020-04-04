@@ -31,7 +31,6 @@ Code currently in Python3 only.
   - Trie
   - Recursion
   - Design
-- [Apr 2020 Challenge](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/apr-challenge.ipynb)
 
 ## Strategies
 
