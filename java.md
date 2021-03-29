@@ -1,3 +1,5 @@
 # Brushing by Java 11
 
-[1.two-sum.java](./java/1.two-sum.java)
+[Back to top](./README.md)
+
+[1.two-sum](./java/1.two-sum.java)

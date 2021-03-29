@@ -6,8 +6,9 @@ Notebooks of Leetcode Brushers! Code brushed in Python3.8 now!
 
 ## Contents
 
-Code currently in Python3 only.
-
+### Java 11
+- [Java](./java.md)
+### Python 3
 - [Array](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/array.ipynb)
 - [Binary Search](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/binary-search.ipynb)
 - [Dynamic Programming](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/dynamic-programming.ipynb)
