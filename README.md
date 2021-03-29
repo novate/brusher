@@ -8,6 +8,7 @@ Notebooks of Leetcode Brushers! Code brushed in Python3.8 now!
 
 ### Java 11
 - [Java](./java.md)
+
 ### Python 3
 - [Array](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/array.ipynb)
 - [Binary Search](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/binary-search.ipynb)
