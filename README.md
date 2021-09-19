@@ -7,27 +7,31 @@ Notebooks of Leetcode Brushers! Code brushed in Python3.8 now!
 ## Contents
 
 ### Java 11
-- [Java](./java.md)
+
+- [Java](./java/java.md)
 
 ### Python 3
-- [Array](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/array.ipynb)
-- [Binary Search](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/binary-search.ipynb)
-- [Dynamic Programming](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/dynamic-programming.ipynb)
+
+- [Python](./py/py.md)
+
+- [Array](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/array.ipynb)
+- [Binary Search](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/binary-search.ipynb)
+- [Dynamic Programming](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/dynamic-programming.ipynb)
   - DP
   - Divide and Conquer
   - Greedy
-- [Graph](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/graph.ipynb)
+- [Graph](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/graph.ipynb)
   - Union Find (UFS)
-- [Hashtable](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/hashtable.ipynb)
-- [List](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/list.ipynb)
-- [Math](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/math.ipynb)
+- [Hashtable](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/hashtable.ipynb)
+- [List](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/list.ipynb)
+- [Math](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/math.ipynb)
   - Arithmetic Math
   - Geometric Math
-- [Search](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/search.ipynb)
-- [Tree](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/tree.ipynb)
+- [Search](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/search.ipynb)
+- [Tree](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/tree.ipynb)
   - General Trees
   - Binary Search Trees
-- [MISC](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/python/misc.ipynb)
+- [MISC](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/misc.ipynb)
   - Stack
   - Heap
   - Trie
