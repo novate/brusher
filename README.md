@@ -14,6 +14,8 @@ Notebooks of Leetcode Brushers! Code brushed in Python3.8 now!
 
 - [Python](./py/py.md)
 
+#### ipynb
+
 - [Array](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/array.ipynb)
 - [Binary Search](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/binary-search.ipynb)
 - [Dynamic Programming](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/dynamic-programming.ipynb)
