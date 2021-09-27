@@ -1,20 +1,18 @@
 # Brosseurs
 
-Notebooks of Leetcode Brushers! Code brushed in Python3.8 now!
-
-**CAUTION**: To hack this repo, please install `nbdev` first!
+Notebooks of Leetcode Brushers! Code brushed in `C++|Java|Python` now!
 
 ## Contents
 
-### Java 11
+### Code
 
-- [Java](./java/java.md)
+- [Python](./py/contents.md)
+- [C++](./cpp/contents.md)
+- [Java](./java/contents.md)
 
-### Python 3
+### ipynb
 
-- [Python](./py/py.md)
-
-#### ipynb
+**CAUTION**: To hack this part, please install `nbdev` first!
 
 - [Array](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/array.ipynb)
 - [Binary Search](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/binary-search.ipynb)

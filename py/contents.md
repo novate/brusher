@@ -1,4 +1,4 @@
-# Brushing by Python 3
+# Python 3
 
 [Back to top](../README.md)
 
