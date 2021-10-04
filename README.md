@@ -1,42 +1,19 @@
-# Brosseurs
+# Brusher
 
 Notebooks of Leetcode Brushers! Code brushed in `C++|Java|Python` now!
 
+- [ipynb](./ipynb/contents.md)
+
 ## Contents
 
-### Code
+### 1-50
 
-- [Python](./py/contents.md)
-- [C++](./cpp/contents.md)
-- [Java](./java/contents.md)
+- 1.two-sum - E: [py3](https://raw.githubusercontent.com/novate/brosseurs/master/py/1.two-sum.py), [C++](./cpp/1.two-sum.cpp), [Java](./java/1.two-sum.java)
+- 42.trapping-rain-water - H: [py3](https://raw.githubusercontent.com/novate/brosseurs/master/py/42.trapping-rain-water.py), [C++](./cpp/42.trapping-rain-water.cpp)
 
-### ipynb
+### 51-100
 
-**CAUTION**: To hack this part, please install `nbdev` first!
-
-- [Array](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/array.ipynb)
-- [Binary Search](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/binary-search.ipynb)
-- [Dynamic Programming](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/dynamic-programming.ipynb)
-  - DP
-  - Divide and Conquer
-  - Greedy
-- [Graph](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/graph.ipynb)
-  - Union Find (UFS)
-- [Hashtable](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/hashtable.ipynb)
-- [List](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/list.ipynb)
-- [Math](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/math.ipynb)
-  - Arithmetic Math
-  - Geometric Math
-- [Search](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/search.ipynb)
-- [Tree](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/tree.ipynb)
-  - General Trees
-  - Binary Search Trees
-- [MISC](https://nbviewer.jupyter.org/github/novate/brosseurs/blob/master/ipynb/misc.ipynb)
-  - Stack
-  - Heap
-  - Trie
-  - Recursion
-  - Design
+- 56.merge.intervals - M: [py3](https://raw.githubusercontent.com/novate/brosseurs/master/py/56.merge.intervals.py)
 
 ## Strategies
 
