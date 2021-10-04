@@ -8,12 +8,12 @@ Notebooks of Leetcode Brushers! Code brushed in `C++|Java|Python` now!
 
 ### 1-50
 
-- 1.two-sum - E: [py3](https://raw.githubusercontent.com/novate/brosseurs/master/py/1.two-sum.py), [C++](./cpp/1.two-sum.cpp), [Java](./java/1.two-sum.java)
-- 42.trapping-rain-water - H: [py3](https://raw.githubusercontent.com/novate/brosseurs/master/py/42.trapping-rain-water.py), [C++](./cpp/42.trapping-rain-water.cpp)
+- 1.two-sum - E: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/1.two-sum.py), [C++](./cpp/1.two-sum.cpp), [Java](./java/1.two-sum.java)
+- 42.trapping-rain-water - H: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/42.trapping-rain-water.py), [C++](./cpp/42.trapping-rain-water.cpp)
 
 ### 51-100
 
-- 56.merge.intervals - M: [py3](https://raw.githubusercontent.com/novate/brosseurs/master/py/56.merge.intervals.py)
+- 56.merge.intervals - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/56.merge.intervals.py)
 
 ## Strategies
 
