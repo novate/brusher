@@ -6,16 +6,12 @@ Notebooks of Leetcode Brushers! Code brushed in `C++|Java|Python` now!
 
 ## Contents
 
-### 1-100
-
 - 1.two-sum - E: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/1.two-sum.py), [C++](./cpp/1.two-sum.cpp), [Java](./java/1.two-sum.java)
 - 42.trapping-rain-water - H: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/42.trapping-rain-water.py), [C++](./cpp/42.trapping-rain-water.cpp)
 - 56.merge-intervals - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/56.merge-intervals.py)
   - [FB Follow-Up: No Sorting](https://leetcode.com/problems/merge-intervals/discuss/355318/Fully-Explained-and-Clean-Interval-Tree-for-Facebook-Follow-Up-No-Sorting)
-
-### 500 - 600
-
 - 560.subarray-sum-equals-k - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/560.subarray-sum-equals-k.py)
+- 1249.minimum-remove-to-make-valid-parentheses - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/1249.minimum-remove-to-make-valid-parentheses.py)
 
 ## Strategies
 
