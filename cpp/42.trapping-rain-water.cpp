@@ -25,4 +25,23 @@ public:
     }
     return ans;
   }
+
+  int trap_better(vector<int> &height) {
+    // the height of the water is max(0, min(l_max, r_max) - h_i)
+    int l_ptr = 0, r_ptr = height.size() - 1;
+    int l_max = 0, r_max = 0;
+    int ans = 0;
+    while (l_ptr <= r_ptr) {
+      if (l_max <= r_max) {
+        ans += max(0, l_max - height[l_ptr]);
+        l_max = max(l_max, height[l_ptr]);
+        l_ptr++;
+      } else {
+        ans += max(0, r_max - height[r_ptr]);
+        r_max = max(r_max, height[r_ptr]);
+        r_ptr--;
+      }
+    }
+    return ans;
+  }
 };
