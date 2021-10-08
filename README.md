@@ -14,6 +14,7 @@ Notebooks of Leetcode Brushers! Code brushed in `C++|Java|Python` now!
 - 124.binary-tree-maximum-path-sum - H: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/124.binary-tree-maximum-path-sum.py)
 - 208.implement-trie-prefix-tree - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/208.implement-trie-prefix-tree.py)
 - 199.binary-tree-right-side-view - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/199.binary-tree-right-side-view.py)
+- 227.basic-calculator-ii - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/227.basic-calculator-ii.py)
 - 236.lowest-common-ancestor-of-a-binary-tree - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/236.lowest-common-ancestor-of-a-binary-tree.py)
 - 370.range-addition - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/370.range-addition.py)
   - Range Caching
@@ -21,6 +22,7 @@ Notebooks of Leetcode Brushers! Code brushed in `C++|Java|Python` now!
   - [Bottom Up](https://bit.ly/3A5nN6M)
   - [Follow Up: print the path](https://leetcode.com/problems/diameter-of-binary-tree/solution/960891)
 - 560.subarray-sum-equals-k - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/560.subarray-sum-equals-k.py)
+- 680.valid-palindrome-ii - E: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/680.valid-palindrome-ii.py)
 - 953.verifying-an-alien-dictionary - E: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/953.verifying-an-alien-dictionary.py)
 - 987.vertical-order-traversal-of-a-binary-tree - H: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/987.vertical-order-traversal-of-a-binary-tree.py)
 - 1249.minimum-remove-to-make-valid-parentheses - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/1249.minimum-remove-to-make-valid-parentheses.py)
