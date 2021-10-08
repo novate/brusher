@@ -23,7 +23,7 @@ Notebooks of Leetcode Brushers! Code brushed in `C++|Java|Python` now!
   - [Follow Up: print the path](https://leetcode.com/problems/diameter-of-binary-tree/solution/960891)
 - 560.subarray-sum-equals-k - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/560.subarray-sum-equals-k.py)
 - 680.valid-palindrome-ii - E: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/680.valid-palindrome-ii.py)
-- 953.verifying-an-alien-dictionary - E: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/953.verifying-an-alien-dictionary.py)
+- 953.verifying-an-alien-dictionary - E: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/953.verifying-an-alien-dictionary.py), [C++](./cpp/953.verifying-an-alien-dictionary.cpp)
 - 987.vertical-order-traversal-of-a-binary-tree - H: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/987.vertical-order-traversal-of-a-binary-tree.py)
 - 1249.minimum-remove-to-make-valid-parentheses - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/1249.minimum-remove-to-make-valid-parentheses.py)
 
