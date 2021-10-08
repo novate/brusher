@@ -14,6 +14,8 @@ Notebooks of Leetcode Brushers! Code brushed in `C++|Java|Python` now!
 - 124.binary-tree-maximum-path-sum - H: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/124.binary-tree-maximum-path-sum.py)
 - 199.binary-tree-right-side-view - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/199.binary-tree-right-side-view.py)
 - 236.lowest-common-ancestor-of-a-binary-tree - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/236.lowest-common-ancestor-of-a-binary-tree.py)
+- 370.range-addition - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/370.range-addition.py)
+  - Range Caching
 - 543.diameter-of-binary-tree - E: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/543.diameter-of-binary-tree.py)
   - [Bottom Up](https://bit.ly/3A5nN6M)
   - [Follow Up: print the path](https://leetcode.com/problems/diameter-of-binary-tree/solution/960891)
