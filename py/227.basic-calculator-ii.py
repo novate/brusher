@@ -1,7 +1,7 @@
 from collections import deque
 
 
-class Solution:
+class SolutionStack:
     def calculate(self, s: str) -> int:
         q = deque()
         op_1 = ('+', '-')
@@ -45,3 +45,35 @@ class Solution:
                 q.appendleft(num_1 - num_2)
 
         return q.pop()
+
+
+class SolutionLastNum:
+    def calculate(self, s: str) -> int:
+        length = len(s)
+        if length == 0:
+            return 0
+
+        signs = {'+', '-', '*', '/'}
+        cur_num = 0
+        last_num = 0
+        result = 0
+        prev_sign = '+'
+        for i in range(length):
+            cur_char = s[i]
+            if cur_char.isdigit():
+                cur_num *= 10
+                cur_num += int(cur_char)
+            if cur_char in signs or i == length-1:
+                if prev_sign == '+' or prev_sign == '-':
+                    result += last_num
+                    last_num = cur_num if prev_sign == '+' else -cur_num
+                elif prev_sign == '*':
+                    last_num *= cur_num
+                elif prev_sign == '/':
+                    if last_num < 0:
+                        last_num = -(-last_num // cur_num)
+                    else:
+                        last_num //= cur_num
+                prev_sign = cur_char
+                cur_num = 0
+        return result + last_num
