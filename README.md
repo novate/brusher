@@ -16,6 +16,7 @@ Notebooks of Leetcode Brushers! Code brushed in `C++|Java|Python` now!
 - 140.word-break-ii - H: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/140.word-break-ii.py)
 - 208.implement-trie-prefix-tree - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/208.implement-trie-prefix-tree.py)
 - 199.binary-tree-right-side-view - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/199.binary-tree-right-side-view.py)
+- 215.kth-largest-element-in-an-array - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/215.kth-largest-element-in-an-array.py)
 - 227.basic-calculator-ii - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/227.basic-calculator-ii.py)
 - 236.lowest-common-ancestor-of-a-binary-tree - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/236.lowest-common-ancestor-of-a-binary-tree.py)
 - 370.range-addition - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/370.range-addition.py)
