@@ -11,6 +11,7 @@ Notebooks of Leetcode Brushers! Code brushed in `C++|Java|Python` now!
 - 42.trapping-rain-water - H: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/42.trapping-rain-water.py), [C++](./cpp/42.trapping-rain-water.cpp)
 - 56.merge-intervals - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/56.merge-intervals.py), [C++](./cpp/56.merge-intervals.cpp)
   - [FB Follow-Up: No Sorting](https://leetcode.com/problems/merge-intervals/discuss/355318/Fully-Explained-and-Clean-Interval-Tree-for-Facebook-Follow-Up-No-Sorting)
+- 78.subsets - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/78.subsets.py)
 - 124.binary-tree-maximum-path-sum - H: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/124.binary-tree-maximum-path-sum.py)
 - 139.word-break - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/139.word-break.py)
 - 140.word-break-ii - H: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/140.word-break-ii.py)
@@ -20,6 +21,7 @@ Notebooks of Leetcode Brushers! Code brushed in `C++|Java|Python` now!
 - 227.basic-calculator-ii - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/227.basic-calculator-ii.py)
 - 236.lowest-common-ancestor-of-a-binary-tree - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/236.lowest-common-ancestor-of-a-binary-tree.py)
 - 314.binary-tree-vertical-order-traversal - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/314.binary-tree-vertical-order-traversal.py)
+- 347.top-k-frequent-elements - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/347.top-k-frequent-elements.py)
 - 370.range-addition - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/370.range-addition.py)
   - Range Caching
 - 543.diameter-of-binary-tree - E: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/543.diameter-of-binary-tree.py)
