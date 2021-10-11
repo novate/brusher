@@ -8,6 +8,7 @@ Notebooks of Leetcode Brushers! Code brushed in `C++|Java|Python` now!
 
 - 1.two-sum - E: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/1.two-sum.py), [C++](./cpp/1.two-sum.cpp), [Java](./java/1.two-sum.java)
 - 31.next-permutation - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/next-permutation.py)
+- 33.search-in-rotated-sorted-array - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/33.search-in-rotated-sorted-array.py)
 - 42.trapping-rain-water - H: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/42.trapping-rain-water.py), [C++](./cpp/42.trapping-rain-water.cpp)
 - 56.merge-intervals - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/56.merge-intervals.py), [C++](./cpp/56.merge-intervals.cpp)
   - [FB Follow-Up: No Sorting](https://leetcode.com/problems/merge-intervals/discuss/355318/Fully-Explained-and-Clean-Interval-Tree-for-Facebook-Follow-Up-No-Sorting)
@@ -30,6 +31,7 @@ Notebooks of Leetcode Brushers! Code brushed in `C++|Java|Python` now!
   - [Follow Up: print the path](https://leetcode.com/problems/diameter-of-binary-tree/solution/960891)
 - 560.subarray-sum-equals-k - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/560.subarray-sum-equals-k.py)
 - 680.valid-palindrome-ii - E: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/680.valid-palindrome-ii.py)
+- 704.binary-search - E: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/704.binary-search.py)
 - 912.sort-an-array - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/912.sort-an-array.py)
 - 953.verifying-an-alien-dictionary - E: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/953.verifying-an-alien-dictionary.py), [C++](./cpp/953.verifying-an-alien-dictionary.cpp)
 - 987.vertical-order-traversal-of-a-binary-tree - H: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/987.vertical-order-traversal-of-a-binary-tree.py)
