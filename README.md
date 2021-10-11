@@ -33,6 +33,7 @@ Notebooks of Leetcode Brushers! Code brushed in `C++|Java|Python` now!
 - 953.verifying-an-alien-dictionary - E: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/953.verifying-an-alien-dictionary.py), [C++](./cpp/953.verifying-an-alien-dictionary.cpp)
 - 987.vertical-order-traversal-of-a-binary-tree - H: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/987.vertical-order-traversal-of-a-binary-tree.py)
 - 1249.minimum-remove-to-make-valid-parentheses - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/1249.minimum-remove-to-make-valid-parentheses.py)
+- 1662.check-if-two-string-arrays-are-equivalent - E: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/1662.check-if-two-string-arrays-are-equivalent.py)
 
 ## Strategies
 
