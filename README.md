@@ -19,6 +19,7 @@ Notebooks of Leetcode Brushers! Code brushed in `C++|Java|Python` now!
 - 215.kth-largest-element-in-an-array - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/215.kth-largest-element-in-an-array.py)
 - 227.basic-calculator-ii - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/227.basic-calculator-ii.py)
 - 236.lowest-common-ancestor-of-a-binary-tree - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/236.lowest-common-ancestor-of-a-binary-tree.py)
+- 314.binary-tree-vertical-order-traversal - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/314.binary-tree-vertical-order-traversal.py)
 - 370.range-addition - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/370.range-addition.py)
   - Range Caching
 - 543.diameter-of-binary-tree - E: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/543.diameter-of-binary-tree.py)
