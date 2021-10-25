@@ -10,6 +10,7 @@ Notebooks of Leetcode Brushers! Code brushed in `C++|Java|Python` now!
 - 31.next-permutation - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/next-permutation.py)
 - 33.search-in-rotated-sorted-array - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/33.search-in-rotated-sorted-array.py)
 - 42.trapping-rain-water - H: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/42.trapping-rain-water.py), [C++](./cpp/42.trapping-rain-water.cpp)
+- 50.powx-n - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/50.powx-n.py)
 - 56.merge-intervals - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/56.merge-intervals.py), [C++](./cpp/56.merge-intervals.cpp)
   - [FB Follow-Up: No Sorting](https://leetcode.com/problems/merge-intervals/discuss/355318/Fully-Explained-and-Clean-Interval-Tree-for-Facebook-Follow-Up-No-Sorting)
 - 67.add-binary - E: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/67.add-binary.py)
