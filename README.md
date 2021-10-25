@@ -28,6 +28,7 @@ Notebooks of Leetcode Brushers! Code brushed in `C++|Java|Python` now!
 - 347.top-k-frequent-elements - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/347.top-k-frequent-elements.py)
 - 370.range-addition - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/370.range-addition.py)
   - Range Caching
+- 408.valid-word-abbreviation - E: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/408.valid-word-abbreviation.py)
 - 415.add-strings - E: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/415.add-strings.py)
 - 426.convert-binary-search-tree-to-sorted-doubly-linked-list - M: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/426.convert-binary-search-tree-to-sorted-doubly-linked-list.py)
 - 543.diameter-of-binary-tree - E: [py3](https://raw.githubusercontent.com/novate/brusher/master/py/543.diameter-of-binary-tree.py)
